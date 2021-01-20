@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Vivek-Savjani/Vivek-Savjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Vivek the resident GitHub idiot. A few friends did one of these so now it's my turn I guess. So here it is some waffle about me.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on : A levels and some Udemy courses
+- 🌱 I’m currently learning: Basic Cyber Security
+- 👯 I’m looking to collaborate on:  A lot of things.
+- 🤔 I’m looking for help with : Everything. I'm pretty dumb.
+- 💬 Ask me about : Nothing. I am really dumb so I won't be any help.
+- ⚡ Fun fact 1: I am the Undisputed Typo GOD
+- ⚡ Fun fact 2: Pepsi once had the seventh largest navy in the world
+- ⚡ Fun fact 3: I am really bad at this. 
+- 🔎 Who am I: I am an A level student. who is hoping to work in Cyber Security
