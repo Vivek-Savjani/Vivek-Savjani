@@ -2,6 +2,7 @@
 
 I am Vivek the resident GitHub idiot. A few friends did one of these so now it's my turn I guess. So here it is some waffle about me.
 
+- 🔎 Who am I: I am an A level student studying Maths,Physics and Computer Science. Who is hoping to work in Cyber Security
 - 🔭 I’m currently working on : A levels and some Udemy courses
 - 🌱 I’m currently learning: Basic Cyber Security
 - 👯 I’m looking to collaborate on:  A lot of things.
@@ -10,5 +11,5 @@ I am Vivek the resident GitHub idiot. A few friends did one of these so now it's
 - ⚡ Fun fact 1: I am the Undisputed Typo GOD
 - ⚡ Fun fact 2: Pepsi once had the sixth largest navy in the world
 - ⚡ Fun fact 3: I am really bad at this. 
-- 🔎 Who am I: I am an A level student studying Maths,Physics and Computer Science. Who is hoping to work in Cyber Security
+- 📷 Profile pic drawn by Ana Whitehead
 - 📚 Most of my work will be in the CSCoursework orginisation for now : https://github.com/CSCoursework
